@@ -3,7 +3,7 @@ const cookieParser = require('cookie-parser');
 const cors = require('cors');
 const app = express();
 
-const PORT = 3000;
+const PORT = 3050;
 
 app.use(express.json());
 app.use(express.urlencoded());
