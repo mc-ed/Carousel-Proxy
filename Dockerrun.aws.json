@@ -1,0 +1,13 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "mitchelldill/carousel-proxy",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "3050"
+    }
+  ],
+  "Logging": "/var/log/nginx"
+}
