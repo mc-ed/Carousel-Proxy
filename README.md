@@ -2,6 +2,8 @@
 
 > Project description
 
+We modified all components' home page behavior for another proxy's benefit (for the FEC presentation). As a result, this proxy's home page doesn't display any item until it's searched for and clicked (or if it's directly navigated to by typing in the url).
+
 ## Related Projects
 
   - https://github.com/teamName/repo
